@@ -51,17 +51,6 @@
                         "icon": "warning_rounded"
                     }
                 ]
-            },
-            {
-                "primary": "알림 이력",
-                "icon": "settings_accessibility_rounded",
-                "sub": [
-                    {
-                        "label": "알림 발송이력 조회",
-                        "src": "http://naver.com",
-                        "icon": "cabin_outlined"
-                    }
-                ]
             }
         ]
     }
