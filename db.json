@@ -22,21 +22,6 @@
                         "label": "운송사 관리",
                         "src": "http://naver.com",
                         "icon": "move_down"
-                    },
-                    {
-                        "label": "관리자 관리",
-                        "src": "http://naver.com",
-                        "icon": "admin_panel_settings"
-                    },
-                    {
-                        "label": "입차가능대수 관리",
-                        "src": "http://naver.com",
-                        "icon": "car_crash"
-                    },
-                    {
-                        "label": "코드 관리",
-                        "src": "http://naver.com",
-                        "icon": "code"
                     }
                 ]
             },
@@ -64,16 +49,6 @@
                         "label": "입고 현황 표시",
                         "src": "http://naver.com",
                         "icon": "warning_rounded"
-                    },
-                    {
-                        "label": "검색 조건",
-                        "src": "http://naver.com",
-                        "icon": "add_circle"
-                    },
-                    {
-                        "label": "목록 조회",
-                        "src": "http://naver.com",
-                        "icon": "face"
                     }
                 ]
             },
