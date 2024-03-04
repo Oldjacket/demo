@@ -40,17 +40,6 @@
                         "icon": "fire_truck"
                     }
                 ]
-            },
-            {
-                "primary": "입차 현황",
-                "icon": "no_backpack_sharp",
-                "sub": [
-                    {
-                        "label": "입고 현황 표시",
-                        "src": "http://naver.com",
-                        "icon": "warning_rounded"
-                    }
-                ]
             }
         ]
     }
